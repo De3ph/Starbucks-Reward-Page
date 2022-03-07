@@ -1,0 +1,7 @@
+export const primaryDark = '#000000'
+export const secondaryDark = '#1e3932'
+export const primaryLight = '#f1f8f6'
+export const secondaryLight = '#d4e9e2'
+export const primaryGreen = '#00754A'
+export const secondaryGreen = '#00A862'
+export const lightBeige = '#f3f1e7'
